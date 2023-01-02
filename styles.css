@@ -1,0 +1,11 @@
+.grid {
+    display: grid;
+}
+
+.flex {
+    display: flex;
+}
+
+.grid-2{
+    grid-template-columns: 50% 50%;
+}
